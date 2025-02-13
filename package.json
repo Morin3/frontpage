@@ -127,12 +127,12 @@
     "@graphql-codegen/introspection": "1.16.3",
     "@graphql-codegen/typescript": "^1.9.1",
     "@storybook/addon-actions": "^6.5.9",
-    "@storybook/addon-essentials": "^6.5.9",
+    "@storybook/addon-essentials": "^7.0.0",
     "@storybook/builder-webpack5": "^6.5.9",
     "@storybook/eslint-config-storybook": "^3.1.2",
     "@storybook/jest": "^0.0.10",
     "@storybook/manager-webpack5": "^6.5.9",
-    "@storybook/react": "^6.5.9",
+    "@storybook/react": "^7.0.0",
     "@storybook/testing-library": "^0.0.11",
     "@types/jest": "^27.0.0",
     "@types/react": "^18",
@@ -152,7 +152,7 @@
     "storybook-addon-outline": "^1.4.2",
     "ts-jest": "^27.0.0",
     "webfontloader": "^1.6.28",
-    "webpack": "^5.76.0"
+    "webpack": "^5.98.0"
   },
   "repository": {
     "type": "git",
