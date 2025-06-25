@@ -144,7 +144,7 @@
     "eslint-plugin-storybook": "^0.5.12",
     "gatsby-source-ghost": "^4.2.4",
     "jest": "^27.0.0",
-    "netlify-lambda": "^2.0.1",
+    "netlify-lambda": "^2.0.16",
     "patch-package": "^6.4.7",
     "prettier": "^2.0.5",
     "prettier-eslint": "^11.0.0",
